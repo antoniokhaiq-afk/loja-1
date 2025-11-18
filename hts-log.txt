@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Nov 2025 15:58:07 at https://marcospaidesanto.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://marcospaidesanto.com.br/ -O1 "C:\Users\Home\Desktop\estrela nata shop web\LOJA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:26	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://marcospaidesanto.com.br/)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/FontAwesome/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://marcospaidesanto.com.br/assets/FontAwesome/css/font-awesome.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/FontAwesome/fonts/fontawesome-webfont.eot? (from https://marcospaidesanto.com.br/assets/FontAwesome/css/font-awesome.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/FontAwesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://marcospaidesanto.com.br/assets/FontAwesome/css/font-awesome.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/FontAwesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://marcospaidesanto.com.br/assets/FontAwesome/css/font-awesome.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/FontAwesome/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://marcospaidesanto.com.br/assets/FontAwesome/css/font-awesome.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.eot?f2bix4 (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.woff?f2bix4 (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.svg?f2bix4 (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons2/mobirise2.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.woff?spat4u (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.svg?spat4u (from https://marcospaidesanto.com.br/assets/web/assets/mobirise-icons/mobirise-icons.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/icon54-v3/fonts/icon54-v3.eot?sdg2ct (from https://marcospaidesanto.com.br/assets/icon54-v3/style.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/icon54-v3/fonts/icon54-v3.ttf?sdg2ct (from https://marcospaidesanto.com.br/assets/icon54-v3/style.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/icon54-v3/fonts/icon54-v3.woff?sdg2ct (from https://marcospaidesanto.com.br/assets/icon54-v3/style.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/icon54-v3/fonts/icon54-v3.svg?sdg2ct (from https://marcospaidesanto.com.br/assets/icon54-v3/style.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/socicon/fonts/socicon.eot (from https://marcospaidesanto.com.br/assets/socicon/css/styles.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/socicon/fonts/socicon.eot? (from https://marcospaidesanto.com.br/assets/socicon/css/styles.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/socicon/fonts/socicon.ttf (from https://marcospaidesanto.com.br/assets/socicon/css/styles.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/socicon/fonts/socicon.woff (from https://marcospaidesanto.com.br/assets/socicon/css/styles.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/assets/socicon/fonts/socicon.svg (from https://marcospaidesanto.com.br/assets/socicon/css/styles.css)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/You must include the utils.js file before tether.js (from https://marcospaidesanto.com.br/assets/tether/tether.min.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/popper.js (from https://marcospaidesanto.com.br/assets/bootstrap/js/bootstrap.min.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/Trident/ (from https://marcospaidesanto.com.br/assets/parallax/jarallax.min.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/Edge/ (from https://marcospaidesanto.com.br/assets/parallax/jarallax.min.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/sddefault.jpg (from https://marcospaidesanto.com.br/assets/theme/js/script.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/hqdefault.jpg (from https://marcospaidesanto.com.br/assets/theme/js/script.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/images/no-video.jpg (from https://marcospaidesanto.com.br/assets/theme/js/script.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/GET (from https://marcospaidesanto.com.br/assets/theme/js/script.js)
+15:58:28	Error: 	"Not Found" (404) at link https://marcospaidesanto.com.br/images/video-placeholder.jpg (from https://marcospaidesanto.com.br/assets/theme/js/script.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 79 links scanned, 48 files written (2498029 bytes overall) [1812054 bytes received at 86288 bytes/sec], 1095424 bytes transferred using HTTP compression in 60 files, ratio 21%, 9.1 requests per connection
+(30 errors, 0 warnings, 0 messages)
